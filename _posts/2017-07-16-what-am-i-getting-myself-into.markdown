@@ -2,7 +2,9 @@
 title: What am I Getting Myself Into?
 date: 2017-07-16 03:55:00 -04:00
 categories:
-- jekyll
+- ramblings
+tags:
+- blog
 layout: post
 ---
 
