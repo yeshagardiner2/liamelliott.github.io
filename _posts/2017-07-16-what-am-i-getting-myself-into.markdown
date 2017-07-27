@@ -10,7 +10,7 @@ layout: post
 
 > So... why the hell are you starting this blog?
 
-Great bloody question, mate! The truth is, I much too often awaken in a cold sweat following dream-bubbles of fingers *clickity-clack-clacking* away in a dull grey enclosure. Really though, I'm just beginning to realize that I need to start contributing to the community in some way. I more or less started feeling this way after watching the course [Get Involved!](https://app.pluralsight.com/library/courses/get-involved/)*(highly recommended)* by [Scott Hanselman](https://www.hanselman.com/) and [Rob Conery](http://rob.conery.io/).
+Great bloody question, mate! The truth is, I much too often awaken in a cold sweat following dream-bubbles of fingers *clickity-clack-clacking* away in a dull grey enclosure. Really though, I'm just beginning to realize that I need to start contributing to the community in some way. I more or less started feeling this way after watching the course [Get Involved!](https://app.pluralsight.com/library/courses/get-involved/) (highly recommended) by [Scott Hanselman](https://www.hanselman.com/) and [Rob Conery](http://rob.conery.io/).
 
 > Okay that's... great? So what kind of content can I expect?
 
