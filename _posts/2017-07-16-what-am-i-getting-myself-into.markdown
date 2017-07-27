@@ -14,4 +14,4 @@ Great bloody question, mate! The truth is, I much too often awaken in a cold swe
 
 > Okay, great! Umm... what kind of content can I expect?
 
-I don't know! Time reveals all! All I can say is, expect a lot of rants about software and business. That's my bread-and-butter, don't you forget that. I'll of course try and keep them topical and constructive. I also like teaching, so I'm going to try and 
+I don't know! Time reveals all, my child! All I can say is, expect a lot of rants about software and business. That's my bread-and-butter, don't you forget that. I'll of course try and keep them topical and constructive. I also like teaching, so I'm going to try and 
