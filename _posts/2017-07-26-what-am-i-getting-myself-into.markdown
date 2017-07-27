@@ -12,9 +12,7 @@ layout: post
 
 Great bloody question, mate! The truth is, I much too often awaken in a cold sweat after dream bubbles filled with fingers *clickity-clack-clacking* away in a dull grey enclosure appear above my head. Really though, I'm just beginning to realize that I need to start contributing to the community in some way. I more or less started feeling this way after watching the course [Get Involved!](https://app.pluralsight.com/library/courses/get-involved/) (highly recommended) by [Scott Hanselman](https://www.hanselman.com/) and [Rob Conery](http://rob.conery.io/).
 
-I'm also moving to small mountain town with no programmers inside a 40 mile radius, so I need to start building a presence online so I can pick up some more remote work.
-
-Hey, nothing wrong with a little honesty right?
+I'm also moving to small mountain town with no programmers inside a 40 mile radius, so I need to start building a presence online so I can pick up some more remote work. Hey, nothing wrong with a little honesty right?
 
 > Okay that's... great? So what kind of content can I expect?
 
