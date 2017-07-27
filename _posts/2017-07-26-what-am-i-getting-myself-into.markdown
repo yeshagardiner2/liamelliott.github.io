@@ -14,7 +14,7 @@ Great bloody question, mate! The truth is, I much too often awaken in a cold swe
 
 I'm also moving to small mountain town with no programmers inside a 40 mile radius, so I need to start building a presence online so I can pick up some more remote work.
 
-Hey, nothing wrong wit a little honesty right?
+Hey, nothing wrong with a little honesty right?
 
 > Okay that's... great? So what kind of content can I expect?
 
