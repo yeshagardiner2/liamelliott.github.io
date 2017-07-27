@@ -14,6 +14,8 @@ Great bloody question, mate! The truth is, I much too often awaken in a cold swe
 
 I'm also moving to small mountain town with no programmers inside a 40 mile radius, so I need to start building a presence online so I can pick up some more remote work.
 
+Hey, nothing wrong wit a little honesty right?
+
 > Okay that's... great? So what kind of content can I expect?
 
 I really don't know! Good things come to those who wait! All I can say at this point is, expect a lot of rants about the philosophy of software, business, and life. That's my bread-and-butter, now don't you forget it. Having said that, I'll of course try and keep them topical and constructive. I also like teaching, so I'm going to put up a fair amount of tutorial-style and *discovery* posts on programming and computers as I come across new ways of doing things. Some things I imagine I'll write about eventually are:
